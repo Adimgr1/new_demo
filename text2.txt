@@ -1,2 +1,2 @@
 This is second text file
-This os the new line added
+This is the new line added
