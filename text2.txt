@@ -1,2 +1,4 @@
 This is second text file
 This is the new line added
+
+This is the new section on the given file
